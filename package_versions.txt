@@ -7,7 +7,7 @@ at-spi2-atk-2.38.0-r0
 at-spi2-core-2.38.0-r0
 atk-2.36.0-r0
 atkmm-2.28.0-r1
-avahi-libs-0.8-r2
+avahi-libs-0.8-r3
 bash-5.1.0-r0
 brotli-libs-1.0.9-r3
 busybox-1.32.1-r6
@@ -89,7 +89,7 @@ libexif-0.6.22-r0
 libffi-3.3-r2
 libfontenc-1.1.4-r0
 libgcc-10.2.1_pre1-r3
-libgcrypt-1.8.7-r0
+libgcrypt-1.8.8-r0
 libgomp-10.2.1_pre1-r3
 libgpg-error-1.41-r0
 libgphoto2-2.5.26-r0
