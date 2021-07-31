@@ -7,7 +7,7 @@ at-spi2-atk-2.38.0-r0
 at-spi2-core-2.38.0-r0
 atk-2.36.0-r0
 atkmm-2.28.0-r1
-avahi-libs-0.8-r3
+avahi-libs-0.8-r4
 bash-5.1.0-r0
 brotli-libs-1.0.9-r3
 busybox-1.32.1-r6
@@ -19,7 +19,7 @@ cairo-gobject-1.16.0-r2
 cairomm-1.14.0-r0
 colord-1.4.5-r0
 colord-gtk-0.2.0-r2
-containerd-1.4.4-r0
+containerd-1.4.8-r0
 coreutils-8.32-r2
 cups-libs-2.3.3-r1
 darktable-3.4.0-r0
@@ -80,7 +80,7 @@ libcanberra-pulse-0.30-r5
 libcap-2.46-r0
 libcap-ng-0.8.2-r0
 libcrypto1.1-1.1.1k-r0
-libcurl-7.77.0-r1
+libcurl-7.78.0-r0
 libdrm-2.4.104-r0
 libedit-20191231.3.1-r1
 libelogind-246.9.1-r1
@@ -222,9 +222,9 @@ xkeyboard-config-2.31-r0
 xmodmap-1.0.10-r0
 xorg-server-1.20.12-r0
 xorg-server-common-1.20.12-r0
-xorgxrdp-0.2.15-r0
+xorgxrdp-0.2.16-r0
 xrdb-1.2.0-r1
-xrdp-0.9.15-r1
+xrdp-0.9.16-r0
 xterm-367-r0
 xz-5.2.5-r0
 xz-libs-5.2.5-r0
