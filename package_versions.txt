@@ -157,7 +157,7 @@ mesa-gbm-21.1.2-r0
 mesa-gl-21.1.2-r0
 mesa-glapi-21.1.2-r0
 mkfontscale-1.2.1-r1
-mozjs78-78.14.0-r0
+mozjs78-78.15.0-r0
 musl-1.2.2-r3
 musl-utils-1.2.2-r3
 ncurses-libs-6.2_p20210612-r0
@@ -207,7 +207,7 @@ sudo-1.9.7_p1-r1
 tdb-libs-1.4.3-r1
 tiff-4.2.0-r1
 tini-static-0.19.0-r0
-tzdata-2021a-r0
+tzdata-2021b-r0
 util-macros-1.19.3-r0
 utmps-0.1.0.2-r0
 wayland-libs-client-1.19.0-r0
