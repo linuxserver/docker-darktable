@@ -21,7 +21,7 @@ colord-1.4.5-r1
 colord-gtk-0.2.0-r2
 containerd-1.5.8-r0
 coreutils-9.0-r2
-cups-libs-2.3.3-r4
+cups-libs-2.3.3-r5
 darktable-3.6.1-r1
 dbus-1.12.20-r4
 dbus-libs-1.12.20-r4
