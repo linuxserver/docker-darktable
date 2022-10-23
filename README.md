@@ -81,6 +81,8 @@ services:
   darktable:
     image: lscr.io/linuxserver/darktable:latest
     container_name: darktable
+    security_opt:
+      - seccomp:unconfined #optional
     environment:
       - PUID=1000
       - PGID=1000
@@ -97,6 +99,7 @@ services:
 ```bash
 docker run -d \
   --name=darktable \
+  --security-opt seccomp=unconfined `#optional` \
   -e PUID=1000 \
   -e PGID=1000 \
   -e TZ=Europe/London \
@@ -117,6 +120,7 @@ Container images are configured using parameters passed at runtime (such as thos
 | `-e PGID=1000` | for GroupID - see below for explanation |
 | `-e TZ=Europe/London` | Specify a timezone to use EG Europe/London. |
 | `-v /config` | Users home directory in the container, stores program settings and images |
+| `--security-opt seccomp=unconfined` | For Docker Engine only, many modern gui apps need this to function on older hosts as syscalls are unknown to Docker. |
 
 ## Environment variables from files (Docker secrets)
 

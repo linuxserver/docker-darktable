@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop-web:arm32v7-alpine
+FROM ghcr.io/linuxserver/baseimage-rdesktop-web:arm32v7-3.16
 
 # set version label
 ARG BUILD_DATE
@@ -11,9 +11,10 @@ LABEL maintainer="thelamer"
 COPY /root /
 
 RUN \
- echo "**** copy over not supported message ****" && \
- cp /defaults/autostart.armhf /defaults/autostart
+  echo "**** copy over not supported message ****" && \
+  cp /defaults/autostart.armhf /defaults/autostart
 
 # ports and volumes
 EXPOSE 3000
+
 VOLUME /config
