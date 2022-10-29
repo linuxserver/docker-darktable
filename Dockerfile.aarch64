@@ -15,6 +15,7 @@ RUN \
   fi && \
   apk add --no-cache \
     darktable==${DARKTABLE_VERSION} && \
+  mkdir -p /usr/share/locale && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
