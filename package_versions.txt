@@ -113,7 +113,7 @@ libcrypto1.1-1.1.1s-r0
 libcurl-7.83.1-r5
 libdav1d-1.0.0-r0
 libdc1394-2.2.6-r0
-libde265-1.0.8-r2
+libde265-1.0.11-r0
 libdrm-2.4.110-r0
 libedit-20210910.3.1-r0
 libelf-0.186-r0
@@ -249,7 +249,7 @@ pciutils-libs-3.8.0-r0
 pcre-8.45-r2
 perl-5.34.1-r0
 pixman-0.40.0-r4
-pkgconf-1.8.0-r1
+pkgconf-1.8.1-r0
 portaudio-19.7.0-r0
 procps-3.3.17-r1
 pugixml-1.12.1-r0
