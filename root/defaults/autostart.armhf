@@ -1,1 +1,0 @@
-xterm -hold -e "echo 'Armhf (32 bit) is not supported by this image'"
