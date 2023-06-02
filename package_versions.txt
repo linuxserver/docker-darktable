@@ -51,7 +51,7 @@ cookie                                                                        0.
 cookie-signature                                                              1.0.6                                                npm        
 coreutils                                                                     9.1-r0                                               apk        
 cors                                                                          2.8.5                                                npm        
-cups-libs                                                                     2.4.2-r1                                             apk        
+cups-libs                                                                     2.4.2-r2                                             apk        
 curl                                                                          8.0.1-r0                                             apk        
 darktable                                                                     4.0.1-r2                                             apk        
 dbus                                                                          1.14.4-r0                                            apk        
