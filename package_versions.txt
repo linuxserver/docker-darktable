@@ -26,7 +26,6 @@ body-parser                                                                   1.
 brace-expansion                                                               1.1.11                                               npm        
 brace-expansion                                                               2.0.1                                                npm        
 brotli-libs                                                                   1.0.9-r9                                             apk        
-busybox                                                                       1.35.0                                               binary     
 busybox                                                                       1.35.0-r29                                           apk        
 busybox-binsh                                                                 1.35.0-r29                                           apk        
 bytes                                                                         3.1.2                                                npm        
@@ -506,7 +505,6 @@ netcat-openbsd                                                                1.
 nettle                                                                        3.8.1-r0                                             apk        
 nghttp2-libs                                                                  1.51.0-r0                                            apk        
 nginx                                                                         1.22.1-r0                                            apk        
-node                                                                          18.16.0                                              binary     
 nodejs                                                                        18.16.0-r0                                           apk        
 numactl                                                                       2.0.16-r1                                            apk        
 object-assign                                                                 4.1.1                                                npm        
@@ -556,7 +554,6 @@ pulseaudio-alsa                                                               16
 pulseaudio-utils                                                              16.1-r6                                              apk        
 pulseaudio2                                                                   0.5.5                                                npm        
 py3-xdg                                                                       0.28-r0                                              apk        
-python                                                                        3.10.11                                              binary     
 python3                                                                       3.10.11-r0                                           apk        
 pyxdg                                                                         0.28                                                 python     
 qs                                                                            6.11.0                                               npm        
