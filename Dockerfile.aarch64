@@ -12,7 +12,7 @@ ENV TITLE=darktable
 
 RUN \
   echo "**** install runtime packages ****" && \
-  pacman -Syu --noconfirm --needed \
+  pacman -Sy --noconfirm --needed \
     darktable \
     portmidi && \
   echo "**** cleanup ****" && \
