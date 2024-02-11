@@ -11,6 +11,10 @@ LABEL maintainer="thelamer"
 ENV TITLE=darktable
 
 RUN \
+  echo "**** add icon ****" && \
+  curl -o \
+    /kclient/public/icon.png \
+    https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/darktable-logo.png && \
   echo "**** install runtime packages ****" && \
   pacman -Sy --noconfirm --needed \
     darktable \
