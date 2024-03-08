@@ -480,9 +480,9 @@ grep                                                                          3.
 groff                                                                         1.23.0-5                                   alpm                           
 gsettings-desktop-schemas                                                     45.0-1                                     alpm                           
 gsm                                                                           1.0.22-1                                   alpm                           
-gst-plugins-base                                                              1.22.10-1                                  alpm                           
-gst-plugins-base-libs                                                         1.22.10-1                                  alpm                           
-gstreamer                                                                     1.22.10-1                                  alpm                           
+gst-plugins-base                                                              1.24.0-1                                   alpm                           
+gst-plugins-base-libs                                                         1.24.0-1                                   alpm                           
+gstreamer                                                                     1.24.0-1                                   alpm                           
 gtk-update-icon-cache                                                         1:4.12.5-1                                 alpm                           
 gtk3                                                                          1:3.24.41-1                                alpm                           
 guile                                                                         3.0.9-1                                    alpm                           
@@ -736,7 +736,7 @@ opencv                                                                        4.
 opencv                                                                        490                                        java-archive                   
 openexr                                                                       3.2.2-1                                    alpm                           
 openjpeg2                                                                     2.5.0-3                                    alpm                           
-openmp                                                                        16.0.6-1                                   alpm                           
+openmp                                                                        17.0.6-1                                   alpm                           
 openssh                                                                       9.6p1-3                                    alpm                           
 openssl                                                                       3.2.1-1                                    alpm                           
 opus                                                                          1.4-1                                      alpm                           
@@ -809,7 +809,7 @@ popt                                                                          1.
 portaudio                                                                     1:19.7.0-2                                 alpm                           
 portmidi                                                                      1:2.0.4-1                                  alpm                           
 procps-ng                                                                     4.0.4-2                                    alpm                           
-protobuf                                                                      25.2-1                                     alpm                           
+protobuf                                                                      25.3-1                                     alpm                           
 proxy-addr                                                                    2.0.7                                      npm                            
 pugixml                                                                       1.14-1                                     alpm                           
 pulseaudio                                                                    17.0-3                                     alpm                           
