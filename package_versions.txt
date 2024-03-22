@@ -482,9 +482,9 @@ grep                                                                          3.
 groff                                                                         1.23.0-5                                            alpm                           
 gsettings-desktop-schemas                                                     45.0-1                                              alpm                           
 gsm                                                                           1.0.22-1                                            alpm                           
-gst-plugins-base                                                              1.24.0-1                                            alpm                           
-gst-plugins-base-libs                                                         1.24.0-1                                            alpm                           
-gstreamer                                                                     1.24.0-1                                            alpm                           
+gst-plugins-base                                                              1.24.0-3                                            alpm                           
+gst-plugins-base-libs                                                         1.24.0-3                                            alpm                           
+gstreamer                                                                     1.24.0-3                                            alpm                           
 gtk-update-icon-cache                                                         1:4.12.5-1                                          alpm                           
 gtk3                                                                          1:3.24.41-1                                         alpm                           
 guile                                                                         3.0.9-1                                             alpm                           
@@ -558,7 +558,7 @@ libass                                                                        0.
 libassuan                                                                     2.5.6-1                                             alpm                           
 libasyncns                                                                    1:0.8+r3+g68cd5af-2                                 alpm                           
 libavc1394                                                                    0.5.4-6                                             alpm                           
-libavif                                                                       1.0.4-1                                             alpm                           
+libavif                                                                       1.0.4-2                                             alpm                           
 libbluray                                                                     1.3.4-1                                             alpm                           
 libbluray-awt-j2se                                                            1.3.4                                               java-archive                   
 libbluray-j2se                                                                1.3.4                                               java-archive                   
@@ -567,7 +567,7 @@ libbs2b                                                                       3.
 libcacard                                                                     2.7.0-3                                             alpm                           
 libcap                                                                        2.69-3                                              alpm                           
 libcap-ng                                                                     0.8.4-1                                             alpm                           
-libcloudproviders                                                             0.3.5-1                                             alpm                           
+libcloudproviders                                                             0.3.6-1                                             alpm                           
 libcolord                                                                     1.4.7-2                                             alpm                           
 libcups                                                                       1:2.4.7-2                                           alpm                           
 libcupsfilters                                                                2.0.0-1                                             alpm                           
@@ -591,7 +591,7 @@ libgpg-error                                                                  1.
 libgphoto2                                                                    2.5.31-1                                            alpm                           
 libgudev                                                                      238-1                                               alpm                           
 libgusb                                                                       0.4.8-1                                             alpm                           
-libheif                                                                       1.17.6-3                                            alpm                           
+libheif                                                                       1.17.6-5                                            alpm                           
 libice                                                                        1.1.1-2                                             alpm                           
 libidn                                                                        1.42-1                                              alpm                           
 libidn2                                                                       2.3.7-1                                             alpm                           
@@ -734,7 +734,7 @@ onetbb                                                                        20
 oniguruma                                                                     6.9.9-1                                             alpm                           
 openbox                                                                       3.6.1-10                                            alpm                           
 opencore-amr                                                                  0.1.6-1                                             alpm                           
-opencv                                                                        4.9.0-2                                             alpm                           
+opencv                                                                        4.9.0-3                                             alpm                           
 opencv                                                                        490                                                 java-archive                   
 openexr                                                                       3.2.3-1                                             alpm                           
 openjpeg2                                                                     2.5.2-1                                             alpm                           
@@ -811,7 +811,7 @@ popt                                                                          1.
 portaudio                                                                     1:19.7.0-2                                          alpm                           
 portmidi                                                                      1:2.0.4-1                                           alpm                           
 procps-ng                                                                     4.0.4-3                                             alpm                           
-protobuf                                                                      25.3-1                                              alpm                           
+protobuf                                                                      25.3-3                                              alpm                           
 proxy-addr                                                                    2.0.7                                               npm                            
 pugixml                                                                       1.14-1                                              alpm                           
 pulseaudio                                                                    17.0-3                                              alpm                           
