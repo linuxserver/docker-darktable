@@ -769,7 +769,7 @@ onetbb                                                                        20
 oniguruma                                                                     6.9.9-1                                   alpm                           
 openbox                                                                       3.6.1-10                                  alpm                           
 opencore-amr                                                                  0.1.6-1                                   alpm                           
-opencv                                                                        4.9.0-5                                   alpm                           
+opencv                                                                        4.9.0-6                                   alpm                           
 opencv                                                                        490                                       java-archive                   
 openexr                                                                       3.2.4-1                                   alpm                           
 openjpeg2                                                                     2.5.2-1                                   alpm                           
