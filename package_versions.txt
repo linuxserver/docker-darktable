@@ -618,7 +618,7 @@ libevent                                                                      2.
 libexif                                                                       0.6.24-2                                alpm                           
 libffi                                                                        3.4.6-1                                 alpm                           
 libfontenc                                                                    1.1.8-1                                 alpm                           
-libgcrypt                                                                     1.11.0-1                                alpm                           
+libgcrypt                                                                     1.11.0-2                                alpm                           
 libglvnd                                                                      1.7.0-1                                 alpm                           
 libgpg-error                                                                  1.50-1                                  alpm                           
 libgphoto2                                                                    2.5.31-1                                alpm                           
@@ -632,8 +632,8 @@ libiec61883                                                                   1.
 libinih                                                                       58-1                                    alpm                           
 libisl                                                                        0.26-2                                  alpm                           
 libjpeg-turbo                                                                 3.0.3-1                                 alpm                           
-libjxl                                                                        0.10.2-1                                alpm                           
-libksba                                                                       1.6.6-1                                 alpm                           
+libjxl                                                                        0.10.3-1                                alpm                           
+libksba                                                                       1.6.7-1                                 alpm                           
 libldap                                                                       2.6.7-2                                 alpm                           
 libmnl                                                                        1.0.5-2                                 alpm                           
 libmodplug                                                                    0.8.9.0-5                               alpm                           
@@ -765,7 +765,7 @@ object-assign                                                                 4.
 object-inspect                                                                1.13.2                                  npm                            
 ocl-icd                                                                       2.3.2-1                                 alpm                           
 on-finished                                                                   2.4.1                                   npm                            
-onetbb                                                                        2021.12.0-2                             alpm                           
+onetbb                                                                        2021.13.0-1                             alpm                           
 oniguruma                                                                     6.9.9-1                                 alpm                           
 openbox                                                                       3.6.1-10                                alpm                           
 opencore-amr                                                                  0.1.6-1                                 alpm                           
@@ -846,7 +846,7 @@ popt                                                                          1.
 portaudio                                                                     1:19.7.0-2                              alpm                           
 portmidi                                                                      1:2.0.4-1                               alpm                           
 procps-ng                                                                     4.0.4-3                                 alpm                           
-protobuf                                                                      27.1-2                                  alpm                           
+protobuf                                                                      27.2-1                                  alpm                           
 proxy-addr                                                                    2.0.7                                   npm                            
 pugixml                                                                       1.14-1                                  alpm                           
 pulseaudio                                                                    17.0-3                                  alpm                           
