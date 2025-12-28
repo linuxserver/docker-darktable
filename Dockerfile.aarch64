@@ -10,7 +10,8 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="thelamer"
 
 # title
-ENV TITLE=darktable
+ENV TITLE=darktable \
+    NO_GAMEPAD=true
 
 RUN \
   echo "**** add icon ****" && \
