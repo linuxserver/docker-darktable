@@ -147,7 +147,7 @@ pipeline {
       steps{
         script{
           env.EXT_RELEASE = sh(
-            script: ''' curl -sX GET https://api.github.com/repos/linuxserver/docker-baseimage-kasmvnc/releases | jq -r 'first(.[] | select(.tag_name | startswith("arch-"))) | .tag_name' | sed 's|arch-||' | sed 's|-ls.*||' ''',
+            script: ''' curl -sL https://archlinux.org/packages/extra/x86_64/darktable/ |awk -F'(<h2>darktable |</h2>)' '/<h2>/ {print $2}' ''',
             returnStdout: true).trim()
             env.RELEASE_LINK = 'custom_command'
         }
@@ -283,7 +283,7 @@ pipeline {
                   -v ${WORKSPACE}:/mnt \
                   -e AWS_ACCESS_KEY_ID=\"${S3_KEY}\" \
                   -e AWS_SECRET_ACCESS_KEY=\"${S3_SECRET}\" \
-                  ghcr.io/linuxserver/baseimage-alpine:3 s6-envdir -fn -- /var/run/s6/container_environment /bin/bash -c "\
+                  ghcr.io/linuxserver/baseimage-alpine:3.23 s6-envdir -fn -- /var/run/s6/container_environment /bin/bash -c "\
                     apk add --no-cache python3 && \
                     python3 -m venv /lsiopy && \
                     pip install --no-cache-dir -U pip && \
