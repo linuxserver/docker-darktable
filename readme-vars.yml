@@ -103,6 +103,7 @@ init_diagram: |
   "darktable:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "03.04.26:", desc: "Make Wayland default disable with PIXELFLUX_WAYLAND=false."}
   - {date: "28.12.25:", desc: "Add Wayland init logic."}
   - {date: "12.07.25:", desc: "Rebase to Selkies, HTTPS IS NOW REQUIRED."}
   - {date: "10.02.24:", desc: "Update Readme with new env vars and ingest proper PWA icon."}
